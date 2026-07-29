@@ -1,7 +1,7 @@
 # ServiceDesk-Simulator
 Simulador online que encontrei e está me ajudando a aprender sobre a rotina de um help desk. 
 
-Buscando me aperfeiçoar na área de Help Desk/Suporte Técnico, há mais ou menos 1 semana, encontrei um site muito bacana que resume o dia a dia na área de maneira simulada e simplificada (mas bem completa), possui:
+Buscando me aperfeiçoar na área de *Help Desk/Suporte Técnico*, há mais ou menos 1 semana, encontrei um site muito bacana que resume o dia a dia na área de maneira simulada e simplificada (mas bem completa), possui:
 
 -Sistema de Tickets com prioridades
 -Simulação de chamadas com usuários 
