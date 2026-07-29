@@ -2,9 +2,9 @@
 
 Buscando me aperfeiçoar na área de **Help Desk/Suporte Técnico**, há mais ou menos 1 semana, encontrei um site muito bacana que resume o dia a dia na área de forma simulada e simplificada (mas bem completa), possui:
 
--Sistema de Tickets com prioridades
--Simulação de chamadas com usuários 
--Sistema de Chat 
+-Sistema de Tickets com prioridades<br>
+-Simulação de chamadas com usuários<br> 
+-Sistema de Chat<br> 
 -FERRAMENTAS: **Diretório** (simula Active Directory com informações dos funcionários), **Sala de Servidores** (onde podemos acessar o estado dos servidores de uma empresa fictícia), **Área de Trabalho Remota** (onde podemos acessar máquinas dos usuários remotamente, simulando ferramentas como AnyDesk/TeamViewer e troubleshooting Windows 11), **Implantação de Computador** (onde podemos configurar máquinas - instalação de SO, domínio, etc), **Prateleira de PCs** (onde ficam armazenadas as máquinas já configuradas), **Documentação** (simula uma base de conhecimento, com explicação de resoluções, escalonamento, etc), **Gestão de Ativos** (mostra os dispositivos de cada funcionário) e **Gerenciador de Envios** (onde podemos enviar dispositivos para os funcionários/setores)
 
 Observação: tanto no chat quanto nas chamadas (pode usar microfone), utilizam IA para simular os funcionários. 
